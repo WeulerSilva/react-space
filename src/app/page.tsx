@@ -7,7 +7,7 @@ const Page = () => {
       className={
         `w-[100vw] h-[100vh] bg-[url('../assets/home/background-home-mobile.jpg')] bg-cover bg-center
         md:bg-[url('../assets/home/background-home-tablet.jpg')] lg:md:bg-[url('../assets/home/background-home-desktop.jpg')] 
-        md:h-[100vh] xl:flex xl:flex-col xl:justify-center`} 
+        md:h-max xl:flex xl:flex-col xl:justify-center xl:h-screen`} 
     >
       <div className='flex flex-col items-center justify-center pt-28 px-6 md:pt-52 xl:flex-row xl:px-0 xl:pt-0'>
         <div className='xl:w-[450px] xl:h-[382px] xl:flex-1 xl:text-left xl:mt-48 xl:pl-40'>
