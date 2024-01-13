@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div 
       className={
-        `w-[100vw] h-[100vh] bg-[url('../assets/home/background-home-mobile.jpg')] bg-cover bg-center
+        `w-dvw h-dvh bg-[url('../assets/home/background-home-mobile.jpg')] bg-cover bg-center
         md:bg-[url('../assets/home/background-home-tablet.jpg')] lg:md:bg-[url('../assets/home/background-home-desktop.jpg')] 
         md:h-max xl:flex xl:flex-col xl:justify-center xl:h-screen`} 
     >
