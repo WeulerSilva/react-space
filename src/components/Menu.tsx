@@ -2,11 +2,8 @@ import logoSvg from '@/assets/shared/logo.svg';
 import { MenuMobile } from './MenuMobile';
 import { NavList } from './NavList';
 
-type Props = {
-    number: boolean
-}
 
-export const Menu = ({number}: Props) => {
+export const Menu = () => {
     return (
         <header className='fixed w-full'>
             <nav className='flex justify-between items-center m-6 md:m-0 xl:mt-10'>
