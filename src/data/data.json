@@ -100,7 +100,7 @@
       "name": "Cápsula espacial",
       "images": {
         "portrait": "assets/technology/image-space-capsule-portrait.jpg",
-        "landscape": "assets/technology/image-space-capsule-landscape.jpg"
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
       },
       "description": "Uma cápsula espacial é uma espaçonave frequentemente tripulada que usa uma cápsula de reentrada de corpo rombudo para reentrar na atmosfera da Terra sem asas. Nossa cápsula é onde você passará seu tempo durante o voo. Inclui academia espacial, cinema e muitas outras atividades para mantê-lo entretido."
     }

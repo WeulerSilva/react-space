@@ -39,7 +39,7 @@ const page = () => {
                     <ToDoList number="03" value="LANÇAMENTO ESPACIAL 101"/>
                 </div>
                     {selectTechnology &&
-                        <Image src={'/'+selectTechnology?.images.landscape} alt="" width={170} height={170} 
+                        <Image src={'/'+selectTechnology?.images.portrait} alt="" width={170} height={170} 
                             className="mt-8 w-full h-[170px] md:w-full md:h-[310px] md:mt-[60px] xl:w-[515px] xl:h-[527px]"/>
                     }
                     
